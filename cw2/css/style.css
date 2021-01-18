@@ -1,0 +1,13 @@
+h1{
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-size: 60px;
+}
+.news{
+    color: chartreuse;
+    background-color: skyblue;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-size: 40px;
+    text-align: justify;
+}

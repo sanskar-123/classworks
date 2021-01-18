@@ -1,0 +1,33 @@
+body {
+    font-size: 25px;
+}
+
+div>.p1 {
+    font-size: 30px;
+}
+
+.p1 {
+    margin-right: 25px;
+    margin-left: 25px;
+    text-align: justify;
+    font-size: 30px;
+    margin-top: 25px;
+}
+
+.p1:first-child i {
+    color: yellow;
+}
+
+.p2 {
+    background-color: chocolate;
+    color: white;
+    padding: 25px 150px;
+    margin-top: 25px;
+    text-align: justify;
+    font-size: 30px;
+}
+
+.p2::after {
+    content: url(smiley.gif);
+    ;
+}

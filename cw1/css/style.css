@@ -1,0 +1,24 @@
+h1{
+    color: red;
+    font-size: 40px;
+    text-align:center ; 
+    
+}
+.story{
+    text-align: justify;
+    
+    padding: 0px 150px;
+
+}
+p{
+    color: blue;
+    width: 100%;
+ 
+   /* text-align:center ;  */
+}
+
+.writer {
+    color:black;
+    font-size: 12px;
+    text-align: right;
+}
