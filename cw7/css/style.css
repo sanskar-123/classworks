@@ -1,0 +1,113 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: white;
+    color: black;
+    justify-content: center;
+    text-align: center;
+    height: 100px;
+    padding-right: 150px;
+    padding-left: 150px;
+}
+
+.normal {
+    width: 100%;
+    position: relative;
+}
+
+.normal .header-content {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 10px 15px;
+}
+
+.header-logo img {
+    width: 100px
+}
+
+.header-logo img {
+    padding: 10px 10px;
+}
+
+.normal .nav-link ul {
+    display: flex;
+    list-style: none;
+    padding-right: 20px;
+}
+
+.nav-link ul li {
+    padding: 5px;
+}
+
+.nav-link ul li {
+    text-decoration: none;
+    color: #a5a5a5;
+    letter-spacing: 2px;
+    padding: 50px;
+    text-size-adjust: 20px;
+}
+
+.nav-link ul li a:hover,
+.nav-link ul li a:focus {
+    background-color: white;
+    color: black;
+}
+
+.nav-link .active {
+    color: #ffffff;
+}
+
+.jacket {
+    display: flex;
+    justify-content: space-between;
+}
+
+.jacket .j {
+    background-color: blue;
+    color: white;
+}
+
+.jacket .j {
+    display: flex;
+    justify: center;
+    text-align: center;
+}
+
+h1 {
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+.jacket .jacket-blue img,
+.jacket .jacket-black img {
+    width: 500px;
+    justify-content: space-between;
+}
+
+.hoodies {
+    display: flex;
+    justify-content: space-between;
+}
+
+.hoodies .h {
+    background-color: blue;
+    color: white;
+}
+
+.hoodies {
+    display: flex;
+    justify-content: space-between;
+}
+
+.hoodies .hoodies-red img,
+.hoodies .hoodies-kharani img {
+    width: 500px;
+    justify-content: space-between;
+}
