@@ -29,5 +29,4 @@ div>.p1 {
 
 .p2::after {
     content: url(smiley.gif);
-    ;
 }
